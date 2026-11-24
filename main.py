@@ -1,6 +1,8 @@
 """Writes the entry text to /output/entry.txt.
 
 Python 3.13, standard library only, no network.
+
+Revision note: re-checked entry after local run (no code change).
 """
 
 # The entry text is a one-line warning label for a time machine, 71
